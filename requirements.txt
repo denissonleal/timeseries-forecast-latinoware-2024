@@ -1,0 +1,7 @@
+Keras
+Keras-Preprocessing
+numpy
+python-dateutil
+jupyterlab
+matplotlib
+pandas
